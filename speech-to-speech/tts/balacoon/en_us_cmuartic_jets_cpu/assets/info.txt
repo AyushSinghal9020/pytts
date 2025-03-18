@@ -1,0 +1,13 @@
+Balacoon TTS en_us_cmartic_jets_gpu API Running Successfully 
+-------------------------------------------------------------
+Port : 8000
+-------------------------------------------------------------
+Endpoints : 
+----> GET
+--------> /
+--------> Info 
+------------> Returns the status of api and the endpoints and information of the api 
+--------> Arguments 
+------------> None
+--------> Returns
+------------> {'message' : This text}
